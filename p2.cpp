@@ -5,6 +5,8 @@ using namespace std;
 string readName()
 {
     string name;
+    cout << "\nmy name is benchaa";
+
     cout << " enter your name : ";
     getline(cin,name);
     return name;
