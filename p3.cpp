@@ -27,8 +27,6 @@ void printOddOrEven(enOddEven result)
 }
 int main ()
 {
-    cout << "\nmy name is benchaa";
-
     printOddOrEven(checkNumberType(readNumber()));
     return 0;
 }
